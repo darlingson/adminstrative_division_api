@@ -1,0 +1,116 @@
+{
+  "country": "Malawi",
+  "regions": [
+    {
+      "region_name": "Northern Region",
+      "districts": [
+        {
+          "district_name": "Chitipa",
+          "towns": ["Chitipa Town", "Ivalo", "Kaporo"]
+        },
+        {
+          "district_name": "Karonga",
+          "towns": ["Karonga Town", "Chitimba", "Nyungwe"]
+        },
+        {
+          "district_name": "Mzimba",
+          "towns": ["Mzimba", "Luwerezi", "Bembeke"]
+        },
+        {
+          "district_name": "Nkhata Bay",
+          "towns": ["Nkhata Bay Town", "Mbowe", "Matemba"]
+        },
+        {
+          "district_name": "Nkhotakota",
+          "towns": ["Nkhotakota", "Dwangwa", "Lifuwu"]
+        },
+        {
+          "district_name": "Rumphi",
+          "towns": ["Rumphi Town", "Chintheche", "Jumbe"]
+        }
+      ]
+    },
+    {
+      "region_name": "Central Region",
+      "districts": [
+        {
+          "district_name": "Dowa",
+          "towns": ["Dowa", "Msundwe", "Chilinde"]
+        },
+        {
+          "district_name": "Kasungu",
+          "towns": ["Kasungu Town", "Kalulu", "Chisamba"]
+        },
+        {
+          "district_name": "Lilongwe",
+          "towns": ["Lilongwe City", "Mchinji", "Chilanga"]
+        },
+        {
+          "district_name": "Mchinji",
+          "towns": ["Mchinji Town", "Kamwendo", "Kaphuka"]
+        },
+        {
+          "district_name": "Nkhotakota",
+          "towns": ["Nkhotakota", "Chikwawa", "Dwangwa"]
+        },
+        {
+          "district_name": "Ntcheu",
+          "towns": ["Ntcheu Town", "Makungwa", "Lifuwu"]
+        },
+        {
+          "district_name": "Salima",
+          "towns": ["Salima Town", "Nanjoka", "Liwonde"]
+        },
+        {
+          "district_name": "Viphya",
+          "towns": ["Viphya", "Chikangawa"]
+        }
+      ]
+    },
+    {
+      "region_name": "Southern Region",
+      "districts": [
+        {
+          "district_name": "Blantyre",
+          "towns": ["Blantyre City", "Limbe", "Machi"]
+        },
+        {
+          "district_name": "Chikwawa",
+          "towns": ["Chikwawa Town", "Kalumba", "Lundu"]
+        },
+        {
+          "district_name": "Chiradzulu",
+          "towns": ["Chiradzulu", "Zomba", "Liwonde"]
+        },
+        {
+          "district_name": "Mangochi",
+          "towns": ["Mangochi Town", "Nkhudzi Bay", "Chingale"]
+        },
+        {
+          "district_name": "Machinga",
+          "towns": ["Machinga", "Mikundi", "Chabwera"]
+        },
+        {
+          "district_name": "Mulanje",
+          "towns": ["Mulanje", "Chitakale", "Nkhande"]
+        },
+        {
+          "district_name": "Nsanje",
+          "towns": ["Nsanje", "Bangula", "Chikala"]
+        },
+        {
+          "district_name": "Ntcheu",
+          "towns": ["Ntcheu Town", "Makungwa", "Lifuwu"]
+        },
+        {
+          "district_name": "Phalombe",
+          "towns": ["Phalombe", "Chitakale", "Chitawira"]
+        },
+        {
+          "district_name": "Zomba",
+          "towns": ["Zomba City", "Mpona", "Naisi"]
+        }
+      ]
+    }
+  ]
+}
